@@ -1,0 +1,1 @@
+https://www.algolia.com/doc/deprecated/api-clients/javascript/v3/methods/find-object/#examples
